@@ -3,6 +3,10 @@ name: xiaohongshu-kol-discovery
 description: 基于小红书的实时数据，通过自然语言检索小红书上的达人。支持按关键词、点赞数、评论数、收藏数等方向筛选，并查看达人的作品及作品表现数据、互动数据、评论内容等，分析达人画像、内容特点、活跃表现和近期作品等，帮助用户快速发现和判断适合合作的达人。支持四大能力：(1) 关键词搜索笔记/视频，可按点赞数、评论数、收藏数、发布时间、内容类型筛选排序；(2) 博主作品抓取，按主页链接获取博主的互动数据（粉丝量、点赞量或收藏量等）或公开作品列表；(3) 笔记（视频）详情，获取详情数据及互动数据等，分析笔记的市场表现；(4) 笔记评论分析，按笔记链接获取评论内容与互动数据。用户提到小红书/xhs/rednote 且需要查数据、市场调研、舆情监测、做选题、竞品监控、KOL筛选、舆情分析时调用；无需登录账号
 license: MIT
 version: 1.1.4
+display_name: 🎯小红书达人发现与洞察
+display_name_en: XiaoHongShu Kol Discovery and Insights
+description_zh: 基于小红书的实时数据，通过自然语言检索小红书上的达人。支持按关键词、点赞数、评论数、收藏数等方向筛选，并查看达人的作品及作品表现数据、互动数据、评论内容等，分析达人画像、内容特点、活跃表现和近期作品等，帮助用户快速发现和判断适合合作的达人。
+description_en: Retrieve creators on XiaoHongShu via natural language search based on real-time XiaoHongShu data. Filter by keywords, likes, comments, collections and other metrics, and view creators’ notes along with note performance data, engagement metrics, and comment content. Analyze creator personas, content characteristics, activity status and recent posts to help users quickly discover and evaluate creators suitable for collaboration.
 category: 数据分析
 platforms: [WorkBuddy, Openclaw, QClaw, ima, Claude Code, Cursor]
 homepage: https://github.com/um-why/xiaohongshu-openclaw-skill
